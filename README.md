@@ -1,7 +1,7 @@
--Oi, meu nome é Milena 
+- Oi, meu nome é Milena 
 
--Meu email é: milena.poteriko@escola.pr.gov.br
+- Meu email é: milena.poteriko@escola.pr.gov.br
 
--Sou estudante
+- Sou estudante
 
--A linguagem de programação que eu conheço é o JavaScript
+- A linguagem de programação que eu conheço é o JavaScript
